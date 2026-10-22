@@ -24,3 +24,8 @@ Dự án được phân chia thành các thư mục chức năng rõ ràng:
 cd path/to/trung-tam-tieng-anh
 ls -la
 ```
+## Công việc cần làm - [x] Tạo cấu trúc thư mục dự án trung tâm 
+- [x] Tạo cấu trúc thư mục dự án trung tâm
+- [ ] Hoàn thiện bảng quản lý học phí tháng 10
+Chú ý :
+> KHÔNG ĐƯỢC UPLOAD FILE .env lên trên github hoặc các nền tảng public để tránh lộ dữ liệu 
